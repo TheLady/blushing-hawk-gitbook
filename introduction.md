@@ -1,14 +1,34 @@
-## We are team blushing-hawk, and our team is TheLady and lisabronwyn.
+W
+e encountered some pauses where we needed to supplement our existing knowledge. Here are the resources that we used to complete our project promptly.
 
-###Our goal is #14 GitBook for Notes/Tips/References
+Please note that there were many issues involving configuration in getting GitBooks to work with GitHub. There were many permissions issues, branch issues, and more. TheLady and I agreed that if you're looking for a robust and user intuitive platform to host your book, documentation, blogs, and more, that this is not the platform that you're looking for.
 
-The first challenging aspect of our project was that neither one of us had selected the goal this week. We also have never worked together, so in addition to the newness of our team, we had to collaborate immediately in order to proceed quickly.
+The integration problems that we had throughout the week were constant and plentiful. There were a lot of missing pieces between GitHub and GitBook and they interfered with collaboration rather than supporting it.
 
-James was very helpful during our first coaching session of the week. He offered insights regarding existing GitBooks. We perused Ethan’s GitBook, and it was easier to understand formatting and content. 
+The goal of the project was to work around the integration problems and develop a workflow that took those into consideration.
 
-Di was very interested in strengthening her database muscles, and I had selected ToDo List as my first choice for this week.
+# A Note on Blogs and Databases
 
-We compromised and were able to communicate our needs and requirements for this week.
+Although GitBook has some improvements to make before becoming a useful tool for collaborating with another person, it still works as a blog hosting solution. If you are using GitBook, you can put your blog on the Web without using Heroku or manually setting up hosting. However, if you are hosting your own blog, you might consider using Javascript and/or Python to store your blog contents in a SQL database.
 
-We were occupied with many tutorials! We used Team Treehouse, Front End Masters and more and will link these in the Resources section.
+For this project, we initially considered PostgreSQL as the database to use. So far, most of the tutorials I reviewed suggest Python frameworks such as Django and Flask, just as Javascript tutorials recommended Express, for example. I recommend SQLite database for Python and ExpressJS for Javascript, to start.
 
+Happy blogging!
+
+​GitBook API Reference​
+
+​GitBook Documentation​
+
+​Github Markdown Cheatsheet​
+
+​Customizing GitBook Themes​
+
+​Team Treehouse's NPM Basics​
+
+​Can I host my GitBook on Github?​
+
+​GitBook video tutorial on YouTube​
+
+​Uninstalling local packages via NPM​
+
+​Creating an access token for command line use​
